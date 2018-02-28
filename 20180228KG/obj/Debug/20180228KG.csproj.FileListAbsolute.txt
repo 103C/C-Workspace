@@ -1,7 +1,6 @@
 E:\C#Workspace\CSharpWorkspace_GIT\CSharp-Workspace\20180228KG\bin\Debug\20180228KG.exe.config
 E:\C#Workspace\CSharpWorkspace_GIT\CSharp-Workspace\20180228KG\bin\Debug\20180228KG.exe
 E:\C#Workspace\CSharpWorkspace_GIT\CSharp-Workspace\20180228KG\bin\Debug\20180228KG.pdb
-E:\C#Workspace\CSharpWorkspace_GIT\CSharp-Workspace\20180228KG\obj\Debug\20180228KG.csprojResolveAssemblyReference.cache
 E:\C#Workspace\CSharpWorkspace_GIT\CSharp-Workspace\20180228KG\obj\Debug\_20180228KG.Form1.resources
 E:\C#Workspace\CSharpWorkspace_GIT\CSharp-Workspace\20180228KG\obj\Debug\_20180228KG.Properties.Resources.resources
 E:\C#Workspace\CSharpWorkspace_GIT\CSharp-Workspace\20180228KG\obj\Debug\20180228KG.csproj.GenerateResource.Cache
